@@ -104,7 +104,8 @@ tkinter-excel-app/
 - `insert_data()` - Inserts new employee records into the Excel file
 - GUI Components: Entry fields, Combobox, Checkbutton, Treeview, Scrollbar
 
-**Theme Files**
+**Theme Files**requirements.txt
+
 - `forest-dark.tcl` - Modern dark theme styling
 - `forest-light.tcl` - Modern light theme styling
 
@@ -200,4 +201,3 @@ If you encounter any issues or have suggestions, please:
 ---
 
 **Last Updated:** 2026-04-01  
-**Status:** Active Development
