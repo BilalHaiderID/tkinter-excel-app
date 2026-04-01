@@ -19,7 +19,7 @@ A Python desktop application that provides a graphical user interface (GUI) for 
 
 ## Screenshots
 
-![App Demo](screenshots/Screenshot from 2026-04-01 17-02-44.png)
+![App Demo](screenshots/Screenshot.png)
 
 *Excel Data Manager with Dark Theme - View and manage employee records effortlessly*
 
