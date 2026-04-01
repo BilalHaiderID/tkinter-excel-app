@@ -19,7 +19,7 @@ A Python desktop application that provides a graphical user interface (GUI) for 
 
 ## Screenshots
 
-![App Demo](screenshots/app-demo.png)
+![App Demo](screenshots/Screenshot from 2026-04-01 17-02-44.png)
 
 *Excel Data Manager with Dark Theme - View and manage employee records effortlessly*
 
@@ -143,17 +143,6 @@ coldata = ("Name", "Age", "Subscription", "Employment")
 - **Error:** `ModuleNotFoundError: No module named 'openpyxl'`
 - **Solution:** Run `pip install -r requirements.txt`
 
-## Future Enhancements
-
-🚀 **Planned Features:**
-- [ ] Delete employee records
-- [ ] Edit existing records
-- [ ] Search/Filter functionality
-- [ ] Export to PDF
-- [ ] Data validation and error handling
-- [ ] Database integration (SQLite/MySQL)
-- [ ] Multi-file management
-- [ ] Backup and restore functionality
 
 ## Contributing
 
