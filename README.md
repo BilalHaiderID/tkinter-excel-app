@@ -41,18 +41,6 @@ cd tkinter-excel-app
 pip install -r requirements.txt
 ```
 
-### 3. Create Data Directory
-```bash
-mkdir -p people
-```
-
-### 4. Create Sample Excel File (Optional)
-If you want to use sample data, create `people/people.xlsx` with the following columns:
-- Name
-- Age
-- Subscription
-- Employment
-
 ## Usage
 
 ### Run the Application
